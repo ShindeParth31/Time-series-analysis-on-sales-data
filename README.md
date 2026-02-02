@@ -15,17 +15,7 @@ Evaluate model performance using error metrics
 
 Dataset Information
 
-Dataset Name: sale_data.csv
-
-Number of Records: 2200+
-
-Frequency: Daily
-
-Columns:
-
-Date – Date of recorded sales
-
-Sales – Number of units sold on that date
+Dataset Name: sales_data.csv
 
 Technologies Used
 
